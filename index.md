@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[CV](./CV.html).
+[Project](./project.html).
 
 There should be whitespace between paragraphs.
 
