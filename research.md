@@ -27,7 +27,7 @@ Map visualizations:
 
 Project Map|  Huiguan Maps  | Nunnery Map
 :-------------------------:|:-------------------------:|:-------------------------:
-[<img src="assets/img/SichuanReligionProjectMap.png" style="height:100px">](https://ywzhou997.github.io/SichuanReligions/ProjectMap.html)  | [<img src="assets/img/HuiguanMap.png" style="height:100px">](https://ywzhou997.github.io/SichuanReligions/HuiguanMap.html) | [<img src="assets/img/NunneryMap.png" style="height:100px">]([https://...Ocean.png](https://ywzhou997.github.io/SichuanReligions/NuneryMap.html))
+[<img src="assets/img/SichuanReligionProjectMap.png">](https://ywzhou997.github.io/SichuanReligions/ProjectMap.html)  | [<img src="assets/img/SichuanReligionHuiguanMap.png">](https://ywzhou997.github.io/SichuanReligions/HuiguanMap.html) | [<img src="assets/img/SichuanReligionNunneryMap.png">](https://ywzhou997.github.io/SichuanReligions/NuneryMap.html))
 
 
 
