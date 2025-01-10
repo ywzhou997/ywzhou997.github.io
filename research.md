@@ -8,6 +8,7 @@ td, th {
 }
 img {
    height:100px;
+   width:150px
 }
 </style>
 
@@ -25,7 +26,7 @@ Map visualizations:
 
 Project Map|  Huiguan Map  | Nunnery Map
 :-------------------------:|:-------------------------:|:-------------------------:
-[<img src="assets/img/SichuanReligionProjectMap.png">](https://ywzhou997.github.io/SichuanReligions/ProjectMap.html)  | [<img src="assets/img/SichuanReligionHuiguanMap.png">](https://ywzhou997.github.io/SichuanReligions/HuiguanMap.html) | [<img src="assets/img/SichuanReligionNunneryMap.png">](https://ywzhou997.github.io/SichuanReligions/NunneryMap.html))
+[<img src="assets/img/SichuanReligionProjectMap.png" style="height:100px;width:150px">](https://ywzhou997.github.io/SichuanReligions/ProjectMap.html)  | [<img src="assets/img/SichuanReligionHuiguanMap.png" style="height:100px;width:150px">](https://ywzhou997.github.io/SichuanReligions/HuiguanMap.html) | [<img src="assets/img/SichuanReligionNunneryMap.png" style="height:100px;width:150px">](https://ywzhou997.github.io/SichuanReligions/NunneryMap.html))
 
 
 
