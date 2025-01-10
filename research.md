@@ -8,7 +8,6 @@ td, th {
 }
 img {
    height:100px;
-   width:150px;
 }
 </style>
 
@@ -24,8 +23,7 @@ Co-directed by Dr. Elena Valussi at Loyola University and Dr. Stefania Travagnin
 
 Map visualizations:
 
-
-Project Map|  Huiguan Maps  | Nunnery Map
+Project Map|  Huiguan Map  | Nunnery Map
 :-------------------------:|:-------------------------:|:-------------------------:
 [<img src="assets/img/SichuanReligionProjectMap.png">](https://ywzhou997.github.io/SichuanReligions/ProjectMap.html)  | [<img src="assets/img/SichuanReligionHuiguanMap.png">](https://ywzhou997.github.io/SichuanReligions/HuiguanMap.html) | [<img src="assets/img/SichuanReligionNunneryMap.png">](https://ywzhou997.github.io/SichuanReligions/NunneryMap.html))
 
