@@ -20,17 +20,9 @@ Co-directed by Dr. Elena Valussi at Loyola University and Dr. Stefania Travagnin
 Map visualizations:
 
 
-Sichuan Religion Project Map|  Solarized Ocean
-:-------------------------:|:-------------------------:
-[<img src="assets/img/SichuanReligionProjectMap.png" style="height:200px">](https://ywzhou997.github.io/SichuanReligions/ProjectMap.html)  |  ![](https://...Ocean.png)
-
-[Sichuan Religion Project Map<br>[<img src="assets/img/SichuanReligionProjectMap.png" style="height:200px">](https://ywzhou997.github.io/SichuanReligions/ProjectMap.html)
-
-<p align="middle">
-  <img src="assets/img/SichuanReligionProjectMap.png" style="height:200px" href/>](https://ywzhou997.github.io/SichuanReligions/ProjectMap.html)
-  <img src="/img2.png" width="100" /> 
-  <img src="/img3.png" width="100" />
-</p>
+Sichuan Religion Project Map|  Huiguan Maps  | Nunnery Map
+:-------------------------:|:-------------------------:|:-------------------------:
+[<img src="assets/img/SichuanReligionProjectMap.png" style="height:100px">](https://ywzhou997.github.io/SichuanReligions/ProjectMap.html)  |  ![](https://...Ocean.png)
 
 
 
