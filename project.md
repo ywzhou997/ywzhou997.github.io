@@ -14,7 +14,8 @@ This page highlights the research projects I have been involved in to date. My w
 
 All my code is open-source and available on my [Github](https://github.com/ywzhou997), with some projects presented as tutorials to facilitate learning and replication.
 
-## Mapping Religious Diversity in Modern Sichuan
+
+### Mapping Religious Diversity in Modern Sichuan
 Co-directed by Dr. Elena Valussi at Loyola University and Dr. Stefania Travagnin from SOAS, this project aims to study religious diversity in Southwestern China through the analysis of communities and networks. It is specifically interested in interactions between rural/urban, public/private, and religious/lay communities and spaces. My role in this project includes managing, analyzing, and visualizing geospatial data. Read more on the [project website](https://sichuanreligions.com/).
 
 Map visualizations:
