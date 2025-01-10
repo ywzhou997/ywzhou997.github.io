@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# About
+## About
 
 Yuwei is a Ph.D. Candidate in the Department of [East Asian Languages and Civilizations](https://ealc.uchicago.edu/) and a [Neubauer Family Distinguished Doctoral Fellow](https://grad.uchicago.edu/fellowships/neubauer-fellows) at the University of Chicago. She also serves as a research assistant at the [Centers for Middle Eastern Landscapes (CAMEL)](https://camelab.uchicago.edu/) in the Institute for the Study of Ancient Cultures. 
 
