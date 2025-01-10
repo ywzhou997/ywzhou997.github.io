@@ -12,8 +12,9 @@ All my code is open-source and available on my [Github](https://github.com/ywzho
 Co-directed by Dr. Elena Valussi at Loyola University and Dr. Stefania Travagnin from SOAS, this project aims to study religious diversity in Southwestern China through the analysis of communities and networks. It is specifically interested in interactions between rural/urban, public/private, and religious/lay communities and spaces. My role in this project includes managing, analyzing, and visualizing geospatial data. Read more on the [project website](https://sichuanreligions.com/).
 
 Map visualizations:
-[<img src="assets/img/SichuanReligionProjectMap.png">]([https://link-to-your-URL/](https://ywzhou997.github.io/SichuanReligions/ProjectMap.html))
-[Sichuan Religion Project Map]()
+
+[Sichuan Religion Project Map<br><img src="assets/img/SichuanReligionProjectMap.png" style="height:200px;">]([https://link-to-your-URL/](https://ywzhou997.github.io/SichuanReligions/ProjectMap.html))
+
 
 
 
