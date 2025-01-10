@@ -2,6 +2,12 @@
 layout: default
 ---
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 # Research
 
 This page highlights the research projects I have been involved in to date. My work in Digital Humanities and Computational Archaeology spans three primary areas: **Geospatial Data Visualization** using ArcGIS Online and JavaScript, **Computational Analysis** such as statistics, PCA, and SNA in R, and **Machine Learning and Deep Learning** in Python for archaeological applications.
@@ -13,8 +19,18 @@ Co-directed by Dr. Elena Valussi at Loyola University and Dr. Stefania Travagnin
 
 Map visualizations:
 
-[Sichuan Religion Project Map<br><img src="assets/img/SichuanReligionProjectMap.png" style="height:200px;">]([https://link-to-your-URL/](https://ywzhou997.github.io/SichuanReligions/ProjectMap.html))
 
+Sichuan Religion Project Map|  Solarized Ocean
+:-------------------------:|:-------------------------:
+[<img src="assets/img/SichuanReligionProjectMap.png" style="height:200px">](https://ywzhou997.github.io/SichuanReligions/ProjectMap.html)  |  ![](https://...Ocean.png)
+
+[Sichuan Religion Project Map<br>[<img src="assets/img/SichuanReligionProjectMap.png" style="height:200px">](https://ywzhou997.github.io/SichuanReligions/ProjectMap.html)
+
+<p align="middle">
+  <img src="assets/img/SichuanReligionProjectMap.png" style="height:200px" href/>](https://ywzhou997.github.io/SichuanReligions/ProjectMap.html)
+  <img src="/img2.png" width="100" /> 
+  <img src="/img3.png" width="100" />
+</p>
 
 
 
