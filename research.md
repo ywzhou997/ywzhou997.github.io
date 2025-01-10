@@ -21,7 +21,7 @@ Co-directed by Dr. Elena Valussi at Loyola University and Dr. Stefania Travagnin
 Map visualizations:
 
 
-Sichuan Religion Project Map|  Huiguan Maps  | Nunnery Map
+Project Map|  Huiguan Maps  | Nunnery Map
 :-------------------------:|:-------------------------:|:-------------------------:
 [<img src="assets/img/SichuanReligionProjectMap.png" style="height:100px">](https://ywzhou997.github.io/SichuanReligions/ProjectMap.html)  |  
 [<img src="assets/img/NunsandNunneries.png" style="height:100px">]([https://...Ocean.png](https://ywzhou997.github.io/SichuanReligions/NunsAndNunneries.html))
