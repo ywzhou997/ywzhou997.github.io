@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-Yuwei is a Ph.D. Candidate in the Department of [East Asian Languages and Civilizations](https://ealc.uchicago.edu/) at the University of Chicago. She holds an [Neubauer Family Distinguished Doctoral Fellowship](https://grad.uchicago.edu/fellowships/neubauer-fellows)) at the University of Chicago and serves as a research assistant at the [Centers for Middle Eastern Landscapes (CAMELS)](https://camelab.uchicago.edu/) at the Institute for the Study of Ancient Cultures.
+Yuwei is a Ph.D. Candidate in the Department of [East Asian Languages and Civilizations](https://ealc.uchicago.edu/) at the University of Chicago. She holds an [Neubauer Family Distinguished Doctoral Fellowship](https://grad.uchicago.edu/fellowships/neubauer-fellows) at the University of Chicago and serves as a research assistant at the [Centers for Middle Eastern Landscapes (CAMELS)](https://camelab.uchicago.edu/) in the Institute for the Study of Ancient Cultures.
 
 She specializes in Bronze Age Chinese archaeology and paleography. Her research uses geospatial and statistical tools to study the urban and mortuary landscapes of the Chinese Central Plain during the first and second millennium BC. 
 
