@@ -34,14 +34,16 @@ Project Map|  Huiguan Map  | Nunnery Map
 
 
 <br>
+<br>
+
 ## Maps in _A Brief History of Ancient China_
 I contributed to the production of all the maps featured in [_A Brief History of Ancient China_](https://www.bloomsbury.com/us/brief-history-of-ancient-china-9781350170377/), authored by Professor Edward L. Shaughnessy. This work involved extensive geospatial data entry, cartographic design, and visualization to support the book's research and narrative.
 
 <img src="assets/img/BriefHistory-ShangMap.jpg" class="BHpreview">  |   <img src="assets/img/BriefHistory-ZhouMap.jpg" class="BHpreview">
 :-------------------------:|:-------------------------:
-<img src="assets/img/BriefHistory-SpringAutumnMap.jpg" class="BHpreview">] | <img src="assets/img/WarringStatesMap.png" class="BHpreview">
+<img src="assets/img/BriefHistory-SpringAutumnMap.jpg" class="BHpreview"> | <img src="assets/img/BriefHistory-WarringStatesMap.png" class="BHpreview">
 
-<img src="assets/img/BriefHistory-ArchaoelogyMap.jpg" style="width:540px;height:420px">
+<img src="assets/img/BriefHistory-ArchaeologyMap.jpg" style="width:540px;height:420px">
 <br>
 
 Stay in tune...
