@@ -12,8 +12,8 @@ td, th {
 }
 
 .BHpreview {
-   height:100px;
-   width:150px;
+   height:210px;
+   width:270px;
 }
 </style>
 
@@ -41,7 +41,7 @@ I contributed to the production of all the maps featured in [_A Brief History of
 :-------------------------:|:-------------------------:
 <img src="assets/img/BriefHistory-SpringAutumnMap.jpg" class="BHpreview">] | <img src="assets/img/WarringStatesMap.png" class="BHpreview">
 
-<img src="assets/img/BriefHistory-ArchaoelogyMap.jpg">
+<img src="assets/img/BriefHistory-ArchaoelogyMap.jpg" style="width:540px;height:420px">
 <br>
 
 Stay in tune...
