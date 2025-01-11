@@ -6,7 +6,12 @@ layout: default
 td, th {
    border: none!important;
 }
-.preview {
+.SRpreview {
+   height:100px;
+   width:150px;
+}
+
+.BHpreview {
    height:100px;
    width:150px;
 }
@@ -25,10 +30,18 @@ Co-directed by Dr. Elena Valussi at Loyola University and Dr. Stefania Travagnin
 
 Project Map|  Huiguan Map  | Nunnery Map
 :-------------------------:|:-------------------------:|:-------------------------:
-[<img src="assets/img/SichuanReligionProjectMap.png" class="preview">](https://ywzhou997.github.io/SichuanReligions/ProjectMap.html)  | [<img src="assets/img/SichuanReligionHuiguanMap.png" class="preview">](https://ywzhou997.github.io/SichuanReligions/HuiguanMap.html) | [<img src="assets/img/SichuanReligionNunneryMap.png" class="preview">](https://ywzhou997.github.io/SichuanReligions/NunneryMap.html)
+[<img src="assets/img/SichuanReligionProjectMap.png" class="SRpreview">](https://ywzhou997.github.io/SichuanReligions/ProjectMap.html)  | [<img src="assets/img/SichuanReligionHuiguanMap.png" class="SRpreview">](https://ywzhou997.github.io/SichuanReligions/HuiguanMap.html) | [<img src="assets/img/SichuanReligionNunneryMap.png" class="SRpreview">](https://ywzhou997.github.io/SichuanReligions/NunneryMap.html)
 
 
+<br>
+## Maps in _A Brief History of Ancient China_
+I contributed to the production of all the maps featured in [_A Brief History of Ancient China_](https://www.bloomsbury.com/us/brief-history-of-ancient-china-9781350170377/), authored by Professor Edward L. Shaughnessy. This work involved extensive geospatial data entry, cartographic design, and visualization to support the book's research and narrative.
 
+[<img src="assets/img/BriefHistory-ShangMap.jpg" class="BHpreview">]  |   [<img src="assets/img/BriefHistory-ZhouMap.jpg" class="BHpreview">]
+:-------------------------:|:-------------------------:
+[<img src="assets/img/BriefHistory-SpringAutumnMap.jpg" class="BHpreview">] | [<img src="assets/img/WarringStatesMap.png" class="BHpreview">]
+
+[<img src="assets/img/BriefHistory-ArchaoelogyMap.jpg">]
 <br>
 
 Stay in tune...
