@@ -17,7 +17,7 @@ td, th {
 }
 </style>
 
-# Digital Humanities and Computational Archaeology
+# Digital Humanities
 
 My work in Digital Humanities and Computational Archaeology spans three primary areas: **Geospatial Data Visualization** with ArcGIS Online and JavaScript, **Computational Analysis** with statistics, PCA, and SNA in R, and **Machine Learning and Deep Learning** in Python for archaeological applications.
 
