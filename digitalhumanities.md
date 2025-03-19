@@ -19,7 +19,7 @@ td, th {
 
 # Digital Humanities and Computational Archaeology
 
-My work in Digital Humanities and Computational Archaeology spans three primary areas: **Geospatial Data Visualization** using ArcGIS Online and JavaScript, **Computational Analysis** such as statistics, PCA, and SNA in R, and **Machine Learning and Deep Learning** in Python for archaeological applications.
+My work in Digital Humanities and Computational Archaeology spans three primary areas: **Geospatial Data Visualization** with ArcGIS Online and JavaScript, **Computational Analysis** with statistics, PCA, and SNA in R, and **Machine Learning and Deep Learning** in Python for archaeological applications.
 
 All my code is open-source and available on my [Github](https://github.com/ywzhou997), with some projects presented as tutorials to facilitate learning and replication.
 
