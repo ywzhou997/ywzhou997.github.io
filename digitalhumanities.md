@@ -17,7 +17,7 @@ td, th {
 }
 </style>
 
-# Digital Humanities
+# Digital Humanities and Computational Archaeology
 
 My work in Digital Humanities and Computational Archaeology spans three primary areas: **Geospatial Data Visualization** using ArcGIS Online and JavaScript, **Computational Analysis** such as statistics, PCA, and SNA in R, and **Machine Learning and Deep Learning** in Python for archaeological applications.
 
@@ -34,6 +34,7 @@ Project Map|  Huiguan Map  | Nunnery Map
 
 
 <br>
+-----
 <br>
 
 ## Maps in _A Brief History of Ancient China_
@@ -46,7 +47,6 @@ I contributed to the production of all the maps featured in [_A Brief History of
 <img src="assets/img/BriefHistory-ArchaeologyMap.jpg" style="width:540px;height:420px;margin-left:auto;margin-right:auto">
 <br>
 
-Stay in tune...
 
 
 
