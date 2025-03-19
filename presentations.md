@@ -2,9 +2,9 @@
 layout: default
 ---
 
-## Presentations
+# Presentations
 
-# Selected Presentations
+## Selected Presentations
 
 **Zhou, Yuwei**. Evoking the Past in the Past: Preliminary Reflections on the use of Memory in Western Zhou Bronzes. Colorado University Boulder Asian Studies Graduate Association (CUBASGA) Graduate Student Conference, Boulder, CO, February 22-23, 2025.
 
@@ -16,9 +16,9 @@ Li, Yung-ti, **Yuwei Zhou**, Xueyan Lv, Magdalina Kubik. The Invisible Building 
 
 **Zhou, Yuwei**. Anyang as an Epitome: A Reexamination of the ‘Clan Cemetery.’ Anyang and Beyond: Ancient DNA Studies, Digital Humanities, and Recent Discoveries in the Study of Ancient Civilizations Conference, University of Chicago, IL, April 10, 2023.
 
+<br>
 
-
-# Selected Talks
+## Selected Talks
 
 **Zhou, Yuwei**. Deconstructing ‘Clan Cemeteries’: Theoretical and Methodological Reflections on Late Shang Mortuary Archaeology. Archaeology Webinar Series, Hong Kong Institute for the Humanities and Social Science, Hong Kong University, April 9, 2025.
 
