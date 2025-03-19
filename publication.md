@@ -2,6 +2,6 @@
 layout: default
 ---
 
-## Welcome to the publication page
+# Publication
 
-Stay in tune...
+
