@@ -44,7 +44,7 @@ I contributed to the production of all the maps featured in [_A Brief History of
 :-------------------------:|:-------------------------:
 <img src="assets/img/BriefHistory-SpringAutumnMap.jpg" class="BHpreview"> | <img src="assets/img/BriefHistory-WarringStatesMap.jpg" class="BHpreview">
 
-<img src="assets/img/BriefHistory-ArchaeologyMap.jpg" style="width:540px;height:420px;margin-left:auto;margin-right:auto">
+<img src="assets/img/BriefHistory-ArchaeologyMap.jpg" style="width:540px;height:420px;margin-right:auto">
 <br>
 
 
